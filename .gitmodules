@@ -22,3 +22,6 @@
 [submodule "bundle/vim-rbenv"]
 	path = bundle/vim-rbenv
 	url = https://github.com/tpope/vim-rbenv.git
+[submodule "bundle/vim-ruby"]
+	path = bundle/vim-ruby
+	url = https://github.com/vim-ruby/vim-ruby.git
